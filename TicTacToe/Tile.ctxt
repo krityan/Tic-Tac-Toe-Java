@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Tile()
+comment0.text=\r\n\ Creates\ a\ tile.\r\n
+comment1.params=player
+comment1.target=boolean\ takeSpot(int)
+comment1.text=\r\n\ Attempts\ to\ take\ the\ tile\ for\ the\ given\ player.\r\n\ @param\ player\ The\ player\ wanting\ to\ take\ this\ tile.\r\n\ @return\ True\ if\ the\ player\ successfully\ takes\ the\ spot,\ False\ otherwise.\r\n
+comment2.params=
+comment2.target=void\ reset()
+comment2.text=\r\n\ Resets\ the\ tile\ to\ default.\r\n
+comment3.params=
+comment3.target=int\ getState()
+comment3.text=\r\n\ Returns\ the\ state\ of\ the\ tile.\r\n\ @return\ int\ representing\ state\ of\ tile.\r\n
+comment4.params=
+comment4.target=boolean\ isTaken()
+comment4.text=\r\n\ Returns\ whether\ or\ not\ the\ tile\ is\ taken.\r\n\ @return\ True\ if\ the\ tile\ is\ taken,\ False\ otherwise.\r\n
+numComments=5
